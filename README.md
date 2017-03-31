@@ -1,24 +1,25 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Ruby version: 2.3.3
 
-Things you may want to cover:
+* Rails version: 5.0.0.1
 
-* Ruby version
+* Database creation and initialization: `rails db:create db:migrate`
 
-* System dependencies
+* `rails tests` for tests
 
-* Configuration
+* `rubocop` to test code standards
 
-* Database creation
+# To do
 
-* Database initialization
+* Finish blogs
 
-* How to run the test suite
+* Get some _style_
 
-* Services (job queues, cache servers, search engines, etc.)
+* Add youtube section
 
-* Deployment instructions
+* Add Travel section
 
-* ...
+* Add Projects section
+
+* Add About Me
